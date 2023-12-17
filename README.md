@@ -14,4 +14,4 @@
 ## Index of Notes, by Topic, by Source Content
 | Topic | 📄 | 📖 | 🗣️ | 👥 | 📚 | 🤷 |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| AI Engineer, Introduction   |  ✅  | - | ✅ | ✅ | - | - | 
+| [AI Engineer, Introduction](https://github.com/will-corcoran/notes/blob/main/AI_Engineer_Introduction.md)https://github.com/will-corcoran/notes/blob/main/AI_Engineer_Introduction.md   |  ✅  | - | ✅ | ✅ | - | - | 
