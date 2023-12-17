@@ -8,7 +8,6 @@
 
 
 #### Table of Contents
-- [Introduction](#introduction)
 - [The Rise of the AI Engineer & The 1,000X AI Engineer by Swyx](#section-1)
   - [Subsection 1.1](#subsection-11)
   - [Subsection 1.2](#subsection-12)
